@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="docs/assets/starka_banner.png" alt="STARKA AI Banner" width="100%" />
 
@@ -65,14 +64,14 @@ Pengguna menerima respons
 
 ## Teknologi
 
-| Teknologi | Fungsi |
-|---|---|
-| Python | Bahasa pemrograman utama |
-| python-telegram-bot | Integrasi dengan Telegram Bot API |
-| OpenAI-compatible API | Antarmuka komunikasi dengan model AI |
-| 9Router | Gateway untuk mengakses provider dan model AI |
-| python-dotenv | Membaca konfigurasi dari file environment |
-| Git dan GitHub | Pengelolaan kode sumber dan kolaborasi |
+| Teknologi             | Fungsi                                        |
+| --------------------- | --------------------------------------------- |
+| Python                | Bahasa pemrograman utama                      |
+| python-telegram-bot   | Integrasi dengan Telegram Bot API             |
+| OpenAI-compatible API | Antarmuka komunikasi dengan model AI          |
+| 9Router               | Gateway untuk mengakses provider dan model AI |
+| python-dotenv         | Membaca konfigurasi dari file environment     |
+| Git dan GitHub        | Pengelolaan kode sumber dan kolaborasi        |
 
 ## Requirement
 
