@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="docs/assets/starka_banner.png" alt="STARKA AI Banner" width="100%" />
+  <p align="center">
+  <img src="./starka_banner.png?raw=true" alt="STARKA AI Banner" width="100%">
+</p>
 
   <h1>STARKA AI</h1>
   <p><strong>Telegram AI Chatbot · 9Router-powered · Python</strong></p>
